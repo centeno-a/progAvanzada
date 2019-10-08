@@ -4,8 +4,8 @@ Python es un lenguaje de scripting independiente de plataforma y orientado a obj
 
 
 
-## ejecicio1 
-el ejecicio 1 trata sobre gerarquias de las operaciones y sirve para valer verga
+## script02
+
 
 ## ejrcicio 2
 jhdfuiehfwuiahfeaiuhaiohwaouheuiaefui
