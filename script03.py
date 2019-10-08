@@ -11,7 +11,7 @@ print ('')
 print ('')
 print ('')
 print ('')
-print ('                                                                 diego jacinto deciga')
-print ('                                                              barrio buena vista sin #')
-print ('                                                              naucalpan de juarez')
+print ('                                                                 
+print ('                                                            
+print ('                                                            
 
