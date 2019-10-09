@@ -1,7 +1,7 @@
 #### progAvanzada
 # introduccion
 
-### ¿Que es python?
+## ¿Que es python?
 Python es un lenguaje de scripting independiente de plataforma y orientado a objetos, preparado para realizar cualquier tipo de programa, desde aplicaciones Windows a servidores de red o incluso, páginas web. Es un lenguaje interpretado, lo que significa que no se necesita compilar el código fuente para poder ejecutarlo, lo que ofrece ventajas como la rapidez de desarrollo e inconvenientes como una menor velocidad. 
 ## ¿El lenguaje interpretador o descript?
 es aquel que se ejecuta realizando un programa intermedio llamado interprete, en lugar de copilar el codigo el lenguaje maquina que puedes comprender y ejecutar directamente una computadora (lenguaje copilado) la ventaja de los lenguajes compiulado es que su ejecucion es mas rapida. Sin embargo, los lenguajes interpretados son mas flexibles y mas portables. Payton es un ejemplo de lenguaje de alto nivel.
