@@ -1,4 +1,6 @@
-# progAvanzada
+#### progAvanzada
+# introduccion
+
 ### ¿Que es python?
 Python es un lenguaje de scripting independiente de plataforma y orientado a objetos, preparado para realizar cualquier tipo de programa, desde aplicaciones Windows a servidores de red o incluso, páginas web. Es un lenguaje interpretado, lo que significa que no se necesita compilar el código fuente para poder ejecutarlo, lo que ofrece ventajas como la rapidez de desarrollo e inconvenientes como una menor velocidad. 
 ## ¿El lenguaje interpretador o descript?
@@ -6,6 +8,15 @@ es aquel que se ejecuta realizando un programa intermedio llamado interprete, en
 ## Tipado dinamico
 Se refiere a que no es necesario declarar el tipo de dato que va a contener determinada variable, sino que su tipo se determina en el tiempo de ejecucion segun el tipo de valor al que se asigna y al tipo de esta variable se puede cambiar si se le asigna un valor de otro tipo
 ## Fuertemente tipado
+no se permite tratar a una variable como si fuera de un tipo distinto al que tiene, es necesario convertir al nuevo tipo previamente, por ejemplo Si tenemos una variable que contiene un texto (variable de tipo cadena o string) no podemos tratarla como un numero
+## multiplataforma
+el interprete de Python esta disponible en multitud de catralogos (Unix, Solaris, Linux, Dos)por lo que si no utilizamos librerias especificas de cada plataforma podras correr sin grandes cambios
+## Orientado a objetos
+la orientacioin a objetos es un paradigma de programacion en el que los conceptos del mundo real relevante para nuestro problema se trasladan a clases y objetos
+## El software 
+Es nucleo de todas las herramientas que utilizamos hoy en dia, casi todos usamos redes sociales para comunicarnos, muchas personas estan conectadas a internet todo el dia y la mayoria de los trabajos siempre se interactuacon una computadora para tener el trabajo hecho. Como resultado la demanda de las personas que sepan programar ha aumentado
+## Porque Paython
+Paython es un lenguaje que su sintaxis simple, clara y sencilla puede automatizar tareas como: Mover y renombrar miles de archivos y clasificarlos en folder, llenar de forma automatica formatos de internet, descargar archivos o extraer formatos de paginas de internet.  
 
 
 ## ejercicio02
