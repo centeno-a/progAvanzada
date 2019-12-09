@@ -124,6 +124,7 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio55.py
 ## ejercicio56
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio56.py
 ## ejercicio57
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio57.py
 ## ejercicio58
 ## ejercicio59
 ## ejercicio60
