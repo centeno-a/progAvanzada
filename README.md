@@ -136,42 +136,79 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio61.py
 ## ejercicio62
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio62.py
 ## ejercicio63
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio63.py
 ## ejercicio64
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio64.py
 ## ejercicio65
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio65.py
 ## ejercicio66
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio66.py
 ## ejercicio67
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio67.py
 ## ejercicio68
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio68.py
 ## ejercicio69
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio69.py
 ## ejercicio70
+
 ## ejercicio71
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio71.py
 ## ejercicio72
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio72.py
 ## ejercicio73
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio74.py
 ## ejercicio74
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio74.py
 ## ejercicio75
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio75.py
 ## ejercicio76
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio76.py
 ## ejercicio77
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio77.py
 ## ejercicio78
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio78.py
 ## ejercicio79
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio79.py
 ## ejercicio80
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio80.py
 ## ejercicio81
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio81.py
 ## ejercicio82
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio82.py
 ## ejercicio83
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio83.py
 ## ejercicio84
+
 ## ejercicio85
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio85.py
 ## ejercicio86
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio86.py
 ## ejercicio87
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio87.py
 ## ejercicio88
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio88.py
 ## ejercicio89
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio89.py
 ## ejercicio90
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio90.py
 ## ejercicio91
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio91.py
 ## ejercicio92
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio92.py
 ## ejercicio93
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio93.py
 ## ejercicio94
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio94.py
 ## ejercicio95
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio95.py
 ## ejercicio96
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio96.py
 ## ejercicio97
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio97.py
 ## ejercicio98
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio98.py
 ## ejercicio99
+
 ## ejercicio100
 
 
