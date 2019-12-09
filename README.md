@@ -208,8 +208,9 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio97.py
 ## ejercicio98
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio98.py
 ## ejercicio99
-
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio99.py
 ## ejercicio100
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio100.py
 
 
 
