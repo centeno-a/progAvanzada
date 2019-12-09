@@ -1,11 +1,24 @@
 # Ejercicio 47
-# Los horóscopos 
+# Los horóscopos comúnmente reportados en los periódicos usan la posición del sol en el momento del nacimiento 
+# para intentar predecir el futuro. 
+# Este sistema de astrología divide el año en doce signos del zodiaco, 
+# como se describe en la tabla a continuación:
+# |Zodiac sign | Date range |
+# |Capricorn |December 22 to January 19| 
+#|Aquarius |January 20 to February 18| 
+#|Pisces |February 19 to March 20| 
+#|Aries |March 21 to April 19| 
+#|Taurus |April 20 to May 20| 
+#|Gemini |May 21 to June 20| 
+#|Cancer |June 21 to July 22| 
+#|Leo |July 23 to August 22| 
+#|Virgo |August 23 to September 22| 
+#|Libra |September 23 to October 22| 
+#|Scorpio |October 23 to November 21| 
+#|Sagittarius |November 22 to December 21|
+# Escriba un programa que le pida al usuario que ingrese su mes y día de nacimiento. 
+# Luego, nuestro programa debe informar el signo zodiacal del usuario como parte de un mensaje de salida apropiado.
 
-
-
-
-
-j
 mes = int(input('Introduce el mes de tu nacimiento: '))
 dia = int(input('Introduce el dia de tu nacimiento: '))
 
