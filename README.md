@@ -91,3 +91,9 @@ https://github.com/centeno-a/progAvanzada/blob/master/script38.py
 https://github.com/centeno-a/progAvanzada/blob/master/script39.py
 ## ejercicio40
 https://github.com/centeno-a/progAvanzada/blob/master/script40.py
+## ejercicio41
+
+## ejercicio42
+
+## ejercicio43
+
