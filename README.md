@@ -99,5 +99,62 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio42.py
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio43.py
 ## ejercicio44
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio44.py
+## ejercicio45
+## ejercicio46
+## ejercicio47
+## ejercicio48
+## ejercicio49
+## ejercicio50
+## ejercicio51
+## ejercicio52
+## ejercicio53
+## ejercicio54
+## ejercicio55
+## ejercicio56
+## ejercicio57
+## ejercicio58
+## ejercicio59
+## ejercicio60
+## ejercicio61
+## ejercicio62
+## ejercicio63
+## ejercicio64
+## ejercicio65
+## ejercicio66
+## ejercicio67
+## ejercicio68
+## ejercicio69
+## ejercicio70
+## ejercicio71
+## ejercicio72
+## ejercicio73
+## ejercicio74
+## ejercicio75
+## ejercicio76
+## ejercicio77
+## ejercicio78
+## ejercicio79
+## ejercicio80
+## ejercicio81
+## ejercicio82
+## ejercicio83
+## ejercicio84
+## ejercicio85
+## ejercicio86
+## ejercicio87
+## ejercicio88
+## ejercicio89
+## ejercicio90
+## ejercicio91
+## ejercicio92
+## ejercicio93
+## ejercicio94
+## ejercicio95
+## ejercicio96
+## ejercicio97
+## ejercicio98
+## ejercicio99
+## ejercicio100
+
 
 
