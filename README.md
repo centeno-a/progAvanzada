@@ -150,7 +150,7 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio68.py
 ## ejercicio69
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio69.py
 ## ejercicio70
-
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio70.py
 ## ejercicio71
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio71.py
 ## ejercicio72
@@ -178,7 +178,7 @@ https://github.com/centeno-a/progAvanzada/blob/master/ejercicio82.py
 ## ejercicio83
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio83.py
 ## ejercicio84
-
+https://github.com/centeno-a/progAvanzada/blob/master/ejercicio84.py
 ## ejercicio85
 https://github.com/centeno-a/progAvanzada/blob/master/ejercicio85.py
 ## ejercicio86
